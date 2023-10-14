@@ -1,0 +1,7 @@
+
+# ------------------------- Data Warehouses --------------
+
+host: localhost
+password: 1234
+user: matin
+dbname: stock_market
